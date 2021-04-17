@@ -2,7 +2,7 @@
 - 👀 I am interested in making things for different multimedias.
 - 🌱 I make things my own way using my own set of tools and methods.
 - 💞️ Feel free to contact me for anything.
-- 📫 Reach me anywhere using those links: ambratolm.cf/p/links.html
+- 📫 Reach me anywhere using those links: https://www.ambratolm.cf/p/links.html
 
 <!---
 Ambratolm/Ambratolm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
