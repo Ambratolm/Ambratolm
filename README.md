@@ -13,47 +13,102 @@ Check out [**🔗 my links**](https://www.ambratolm.cf/p/links.html) and Feel fr
 
 ### ⚒ Used Technologies and Tools
 
-<table style="width:100%">
+<table>
+
   <tr>
-    <th>Category</th>
-    <th>Technologies & Tools </th>
+    <th colspan="2">🔨 Languages & Frameworks</th>
   </tr>
+
   <tr>
-    <td>🔨 Languages & Frameworks</td>
+    <td>Desktop</td>
     <td>
-      <img src="icons/javascript.svg" alt="javascript" title="JavaScript" width="32" height="32" />
-      <img src="icons/nodejs.svg" alt="nodejs" title="NodeJS" width="32" height="32" />
-      <img src="icons/express.svg" alt="express" title="ExpressJS" width="32" height="32" />
-      <img src="icons/vue.svg" alt="vue" title="VueJS" width="32" height="32" />
-      <img src="icons/angularjs.svg" alt="angularjs" title="AngularJS" width="32" height="32" />
-      <img src="icons/jquery.svg" alt="jquery" title="JQuery" width="32" height="32" />
-      &nbsp;&nbsp;&nbsp;&nbsp;
-      <img src="icons/c-sharp.svg" alt="c-sharp" title="C#" width="32" height="32" />
-      <img src="icons/dotnet.svg" alt="dotnet" title=".NET" width="32" height="32" />
-      &nbsp;&nbsp;&nbsp;&nbsp;
-      <img src="icons/php.svg" alt="php" title="PHP" width="32" height="32" />
-      &nbsp;&nbsp;&nbsp;&nbsp;
-      <img src="icons/c.svg" alt="c" title="C Language" width="32" height="32" />
+       <a href="https://docs.microsoft.com/en-us/dotnet/csharp" target="_blank">
+        <img src="icons/c-sharp.svg" alt="c-sharp" title="C#" width="32" height="32" />
+      </a>
+      <a href="https://dotnet.microsoft.com" target="_blank">
+        <img src="icons/dotnet.svg" alt="dotnet" title=".NET" width="32" height="32" />
+      </a>
+      <img src="placeholder.png">
+      <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
+        <img src="icons/c.svg" alt="c" title="C Language" width="32" height="32" />
+      </a>
     </td>
   </tr>
+
   <tr>
-    <td>🏪 Database Engines</td>
+    <td>Web</td>
     <td>
-      <img src="icons/firebase.svg" alt="firebase" title="FireBase" width="32" height="32" />
-    <img src="icons/mongodb.svg" alt="mongodb" title="MongoDB" width="32" height="32" />
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="icons/sqlserver.svg" alt="sqlserver" title="SQL Server" width="32" height="32" />
-    <img src="icons/mysql.svg" alt="mysql" title="MySQL" width="32" height="32" />
-    <img src="icons/mariadb.svg" alt="mariadb" title="MariaDB" width="32" height="32" />
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+        <img src="icons/javascript.svg" alt="javascript" title="JavaScript" width="32" height="32" />
+      </a>
+      <a href="https://vuejs.org" target="_blank">
+        <img src="icons/vue.svg" alt="vue" title="VueJS" width="32" height="32" />
+      </a>
+      <a href="https://angularjs.org" target="_blank">
+        <img src="icons/angularjs.svg" alt="angularjs" title="AngularJS" width="32" height="32" />
+      </a>
+      <a href="https://jquery.com" target="_blank">
+        <img src="icons/jquery.svg" alt="jquery" title="JQuery" width="32" height="32" />
+      </a>
+      <img src="placeholder.png">
+      <a href="https://nodejs.org" target="_blank">
+        <img src="icons/nodejs.svg" alt="nodejs" title="NodeJS" width="32" height="32" />
+      </a>
+      <a href="https://expressjs.com" target="_blank">
+        <img src="icons/express.svg" alt="express" title="ExpressJS" width="32" height="32" />
+      </a>
+      <img src="placeholder.png">
+      <a href="https://php.net" target="_blank">
+        <img src="icons/php.svg" alt="php" title="PHP" width="32" height="32" />
+      </a>
     </td>
   </tr>
+
   <tr>
-    <td>🏭 Code Editors & IDEs</td>
-    <td>
-      <img src="icons/sublime-text.svg" alt="sublime-text" title="Sublime Text" width="32" height="32" />
-      <img src="icons/visual-studio.svg" alt="visual-studio" title="Visual Studio" width="32" height="32" />
-      <img src="icons/phpstorm.svg" alt="phpstorm" title="PHP Storm" width="32" height="32" />
-      &nbsp;&nbsp;&nbsp;&nbsp;
+    <th colspan="2">🏪 Database Engines</th>
+  </tr>
+
+  <tr>
+    <td colspan="2">
+      <a href="https://www.microsoft.com/sql-server" target="_blank">
+        <img src="icons/sqlserver.svg" alt="sqlserver" title="SQL Server" width="32" height="32" />
+      </a>
+      <img src="placeholder.png">
+      <a href="https://mariadb.org" target="_blank">
+        <img src="icons/mysql.svg" alt="mysql" title="MySQL" width="32" height="32" />
+      </a>
+      <a href="" target="_blank">
+        <img src="icons/mariadb.svg" alt="mariadb" title="MariaDB" width="32" height="32" />
+      </a>
+      <img src="placeholder.png">
+      <a href="https://www.firebase.com" target="_blank">
+        <img src="icons/firebase.svg" alt="firebase" title="FireBase" width="32" height="32" />
+      </a>
+      <a href="https://www.mongodb.org" target="_blank">
+        <img src="icons/mongodb.svg" alt="mongodb" title="MongoDB" width="32" height="32" />
+      </a>
+      <img src="placeholder.png">
+    </td>
+  </tr>
+
+  <tr>
+    <th colspan="2">🏭 Editors & IDEs</th>
+  </tr>
+
+  <tr>
+    <td colspan="2">
+      <a href="https://www.sublimetext.com" target="_blank">
+        <img src="icons/sublime-text.svg" alt="sublime-text" title="Sublime Text" width="32" height="32" />
+      </a>
+      <img src="placeholder.png">
+      <a href="https://visualstudio.microsoft.com/vs" target="_blank">
+        <img src="icons/visual-studio.svg" alt="visual-studio" title="Visual Studio" width="32" height="32" />
+      </a>
+      <img src="placeholder.png">
+      <a href="https://www.jetbrains.com/phpstorm" target="_blank">
+        <img src="icons/phpstorm.svg" alt="phpstorm" title="PHP Storm" width="32" height="32" />
+      </a>
+      <img src="placeholder.png">
     </td>
   </tr>
 </table>
@@ -79,4 +134,5 @@ Check out [**🔗 my links**](https://www.ambratolm.cf/p/links.html) and Feel fr
 <div align="right">
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ambratolm)
+
 </div>
