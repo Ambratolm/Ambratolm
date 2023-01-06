@@ -158,12 +158,12 @@
   <tr>
     <td>
       <a href="https://github.com/Ambratolm?tab=repositories" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ambratolm&layout=compact" alt="top-lang">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ambratolm&theme=transparent" alt="top-lang">
       </a>
     </td>
     <td>
       <a href="https://github.com/Ambratolm?tab=repositories" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api?username=ambratolm" alt="github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=ambratolm&show_icons=true&theme=transparent" alt="github-readme-stats">
       </a>
     </td>
   </tr>
