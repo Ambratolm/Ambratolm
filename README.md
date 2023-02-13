@@ -13,6 +13,9 @@
 - 🧱 [Simple Works](https://github.com/simple-works)
 - 🕹️ [Ambratolm Games](https://github.com/ambratolm-games)
 
+<details>
+  <summary>⭐ Favorites</summary>
+<br />
 <table><tr><td>
 
   <!-- General -->
@@ -110,24 +113,24 @@
   </a>
 
 </td></tr></table>
+</details>
 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/Ambratolm?tab=repositories" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ambratolm&theme=transparent" alt="top-lang">
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/Ambratolm?tab=repositories" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api?username=ambratolm&show_icons=true&theme=transparent" alt="github-readme-stats">
-      </a>
-    </td>
-  </tr>
-</table>
-
-<div align="right">
-  <a href="https://www.google.com/search?q=ambratolm" target="_blank">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=ambratolm" alt="visitors">
-  </a>
-</div>
+<details>
+ <summary>📊 Stats</summary>
+  <br />
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/Ambratolm?tab=repositories" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ambratolm&theme=transparent" alt="top-lang">
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Ambratolm?tab=repositories" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api?username=ambratolm&show_icons=true&theme=transparent" alt="github-readme-stats">
+        </a>
+      </td>
+    </tr>
+  </table>
+</details>
+  
