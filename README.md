@@ -3,7 +3,7 @@
 [![Email](https://img.shields.io/badge/Ambratolm@Gmail.com--white?style=social&logo=gmail)](https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&to=ambratolm@gmail.com)
 [![Messenger](https://img.shields.io/badge/--lightgrey?style=social&logo=messenger)](http://m.me/ambratolm)
 [![Reddit](https://img.shields.io/badge/--white?style=social&logo=reddit)](https://www.reddit.com/user/Ambratolm)
-[![Twitter](https://img.shields.io/badge/--white?style=social&logo=twitter)](https://twitter.com/ambratolm)
+[![Twitter](https://img.shields.io/badge/--white?style=social&logo=x)](https://x.com/ambratolm)
 [![YouTube](https://img.shields.io/badge/--white?style=social&logo=youtube)](https://www.youtube.com/@ambratolm)
 [![SoundCloud](https://img.shields.io/badge/--white?style=social&logo=soundcloud)](https://soundcloud.com/ambratolm)
 [![Facebook](https://img.shields.io/badge/--white?style=social&logo=facebook)](https://www.facebook.com/ambratolm2)
